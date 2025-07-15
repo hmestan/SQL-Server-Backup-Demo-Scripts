@@ -18,7 +18,7 @@ Dosya yollarını mutlaka kendi ortamınıza göre ayarlayın. Aksi halde backup
 ## 📺 YouTube Videoları
 - [SQL Server Full Backup Video](https://youtu.be/Wz_ChMY8qFo)  
 - [SQL Server Differential Backup ve Transaction Log Backup Nasıl Alınır?](https://youtu.be/urfZSW5MSx0)
-
+- [SQL Server Crash Senaryosu ve Veri Tabanı Kurtarma! (Full, Differential, Log Backup ile Adım Adım)](https://youtu.be/DJqL7ZYSc3Q)
 ---
 
 # SQL Server Backup Demo Scripts (Uretim Database)
@@ -41,3 +41,4 @@ Be sure to adjust file paths according to your environment. Otherwise, backup op
 ## 📺 YouTube Videos
 - [SQL Server Full Backup Video](https://youtu.be/Wz_ChMY8qFo)  
 - [SQL Server Differential Backup ve Transaction Log Backup Nasıl Alınır?](https://youtu.be/urfZSW5MSx0)
+- [SQL Server Crash Scenario and Database Recovery! (Step by Step with Full, Differential, Log Backup)](https://youtu.be/DJqL7ZYSc3Q)
