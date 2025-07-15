@@ -17,7 +17,7 @@ Dosya yollarını mutlaka kendi ortamınıza göre ayarlayın. Aksi halde backup
 
 ## 📺 YouTube Videoları
 - [SQL Server Full Backup Video](https://youtu.be/Wz_ChMY8qFo)  
-- [SQL Server Differential Backup ve Transaction Log Backup Nasıl Alınır?] (https://youtu.be/urfZSW5MSx0)
+- [SQL Server Differential Backup ve Transaction Log Backup Nasıl Alınır?](https://youtu.be/urfZSW5MSx0)
 
 ---
 
@@ -40,4 +40,4 @@ Be sure to adjust file paths according to your environment. Otherwise, backup op
 
 ## 📺 YouTube Videos
 - [SQL Server Full Backup Video](https://youtu.be/Wz_ChMY8qFo)  
-- [SQL Server Differential Backup ve Transaction Log Backup Nasıl Alınır?] (https://youtu.be/urfZSW5MSx0)
+- [SQL Server Differential Backup ve Transaction Log Backup Nasıl Alınır?](https://youtu.be/urfZSW5MSx0)
